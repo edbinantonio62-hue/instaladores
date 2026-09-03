@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 Guía Rápida de PSeInt
 
 ![PSeInt](https://img.shields.io/badge/PSeInt-Educativo-blue?style=for-the-badge)
